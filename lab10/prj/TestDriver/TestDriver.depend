@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1749224190 source:d:\my labs\bmtp-lab10\prj\testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ModulesLevchenko.h"
+
+1749224021 d:\my labs\bmtp-lab10\prj\moduleslevchenko\moduleslevchenko.h
+	<string>
+
